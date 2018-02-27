@@ -1,0 +1,5 @@
+tareas
+
+Añadir fotos
+añadir archivo .svg y foto clickeable a pagina web
+agrehar pagina web en footer
